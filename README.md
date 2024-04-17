@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Thiago Pessoa
-- 👀 I’m interested in Photography, reading and jogar moba...
-- 🌱 I’m currently learning C# And React ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Thiago Pessoa
 
-<!---
-thpessoa35/thpessoa35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Interested in software development.
+- 🌱 Currently learning CQRS, Microsservices, Apache Kafka and Domain-Driven Design.
+- 🎓 Studying Systems Analysis and Development.
+- 💻 Technologies:
+  - JavaScript, Node.js, HTML/CSS
+  - TypeScript, React
+  - C#, ASP.NET
+  - Clean Architecture
+  - 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiago-pessoa-192a72275/)
