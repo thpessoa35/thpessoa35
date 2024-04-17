@@ -8,5 +8,4 @@
   - TypeScript, React
   - C#, ASP.NET
   - Clean Architecture
-  - 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiago-pessoa-192a72275/)
