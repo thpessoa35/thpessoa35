@@ -50,13 +50,14 @@ Desenvolvedor em constante evolução, apaixonado por criar soluções escaláve
 
 ## 🎯 Foco de Estudos 2025
 
-
+```typescript
 const learningPath = {
   architecture: ['Clean Architecture', 'Hexagonal Architecture', 'Event-Driven'],
   patterns: ['CQRS', 'Event Sourcing', 'Saga Pattern'],
   technologies: ['Apache Kafka', 'RabbitMQ', 'Redis'],
   practices: ['DDD', 'TDD', 'Microservices']
 };
+```
 
 ---
 
